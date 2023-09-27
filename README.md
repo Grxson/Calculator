@@ -1,3 +1,3 @@
 # calculator.github.io
  Simple Calculator
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
+![image](https://github.com/Grxson/calculator.github.io/assets/145587704/f9649ccf-76a5-4903-8f4f-2bb345eb749d)
