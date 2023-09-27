@@ -1,3 +1,3 @@
 # calculator.github.io
  Simple Calculator
-https://raw.githubusercontent.com/Grxson/calculator.github.io/image.jpeg
+https://github.com/Grxson/calculator.github.io/blob/aa25d245eba327095e35bac487143a2de1fbe724/image.jpeg
